@@ -30,7 +30,7 @@ No additional dependencies required if using plain HTML/CSS/JS.
 3. Set up OpenWeatherMap API Key
 Go to OpenWeatherMap
 Sign up and generate your API key.
-Replace the value of apiKey in the <script> tag:
+Replace the value of apiKey in the app.js
 4. Run the Application
 For static setup: Simply open index.html in your browser.
 
