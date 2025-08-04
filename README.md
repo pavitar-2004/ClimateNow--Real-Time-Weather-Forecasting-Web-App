@@ -47,5 +47,4 @@ Implement geolocation-based weather fetching.
 Add multi-day forecast support.
 Store last searched cities in localStorage.
 
-# Author
-# Pavitar Ajeet Singh 
+# Author Pavitar Ajeet Singh 
