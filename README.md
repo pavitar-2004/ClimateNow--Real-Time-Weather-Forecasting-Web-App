@@ -31,7 +31,8 @@ No additional dependencies required if using plain HTML/CSS/JS.
 Go to OpenWeatherMap
 Sign up and generate your API key.
 Replace the value of apiKey in the app.js
-4. Extract images.zip and paste it in same folder where index.html is saved.
+4. Extract icons.zip and you will get images folder there copy that folder and
+paste it in same folder where index.html is saved.
 5. Run the Application
 For static setup: Simply open index.html in your browser.
 
